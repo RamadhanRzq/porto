@@ -30,7 +30,7 @@ function App() {
             <li>
               <a
                 className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8"
-                href="/src/assets/cv.pdf"
+                href="/public/cv.pdf"
                 download="cv-ramadhan-rizqi.pdf"
               >
                 Download CV
